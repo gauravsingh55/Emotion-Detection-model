@@ -1,19 +1,24 @@
 # Emotion-Detection-model
 This is a project that builds a emotion detection TensorFlow Lite  model
 
+------------------------------------------------------------------------------
 Documentation for the Built Model:
-
+------------------------------------------------------------------------------
 The model is built on the "FER-2013" dataset after data pre-processing
 we are left with a total of 9308 images for traing.
 
 The model was built primarily using the Tensorflow package.
-
+------------------------------------------------------------------------------
 All the requierd packeges are as follows.
-	-> tensorflow - pip install tensorflow.
-	-> OpenCV - pip install opencv-contrib-python
-	-> Matplotlib - pip3 install matplotlib
-	-> Numpy - pip instll numpy
 
+        tensorflow - pip install tensorflow.
+        
+        OpenCV - pip install opencv-contrib-python
+
+        Matplotlib - pip3 install matplotlib
+
+        Numpy - pip instll numpy
+------------------------------------------------------------------------------
 The model is built using "Transfer Learing" technique. In which we use a 
 pre-built model to create a desierd new model by adding our own layers.
 
