@@ -29,3 +29,4 @@ Our new model adds few layers to MobileNetV2 and the total number of
 layers comes up to 57.
 
 The model gives us a accuracy of 92.02% on the FER-2013 dataset.
+------------------------------------------------------------------------------
