@@ -28,5 +28,5 @@ known model in Tensorflow, it has 53 layers in total and is a CCN model.
 Our new model adds few layers to MobileNetV2 and the total number of
 layers comes up to 57.
 
-The model gives us a accuracy of 92.02% on the FER-2013 dataset.
+The model gives us a accuracy of 63.2% on the FER-2013 dataset.
 ------------------------------------------------------------------------------
