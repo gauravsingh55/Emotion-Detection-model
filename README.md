@@ -4,7 +4,7 @@ This is a project that builds a emotion detection TensorFlow Lite  model
 ------------------------------------------------------------------------------
 Documentation for the Built Model:
 ------------------------------------------------------------------------------
-The model is built on the "FER-2013" dataset a total of 21107 images for traing.
+The model is built on the "FER-2013" dataset a total of 21107 images for training.
 
 The model was built primarily using the Tensorflow package.
 ------------------------------------------------------------------------------
